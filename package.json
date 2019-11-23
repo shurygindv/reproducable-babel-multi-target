@@ -1,0 +1,11 @@
+{
+  "name": "reproduce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-babel-multi-target-plugin": "^2.3.1",
+    "webpack-cli": "^3.3.10"
+  }
+}
